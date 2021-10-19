@@ -19,7 +19,7 @@ Files Submitted:
 - readme.md
 - Makefile
 
-- No compile or runtime errors
+No compile or runtime errors
 - Could not use git push command because of authentication errors so I manually uploaded the source files
 
 Attempting to check for oscilation but I am not sure if I implemented it correctly.
