@@ -29,5 +29,5 @@ References:
 
 Instructions to start program in Docker container:
 
-g++ *.cpp
-./a.out name_of_input_file name_of_output_file T2E or E2T
+- g++ *.cpp
+- ./a.out name_of_input_file name_of_output_file T2E or E2T
