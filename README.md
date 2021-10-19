@@ -20,14 +20,18 @@ Files Submitted:
 - Makefile
 
 No compile or runtime errors
+Could not use git push command because of authentication errors so I manually uploaded the source files
+
+Attempting to check for oscilation but I am not sure if I implemented it correctly.
 
 References:
 - Tutored by former student Thomas Moore on creating numberOfNeighbors() function to count number of neighbors and followed the function he created for classic mode. I then carried out the same logic to create neighbor-check functions for doughnut and mirror mode on my own.
+- Also tutored by Thomas Moore on mirror mode boundary rules
 - https://www.youtube.com/watch?v=YZ-W5DrKPQ0&t=691s - used same logic from video to count number of neighbors
 - Tutored by class TA Josh on doughnut mode logic
 - https://www.techiedelight.com/dynamic-memory-allocation-in-c-for-2d-3d-array/ - used site to learn about 2d dynamically allocated arrays
 - https://careerkarma.com/blog/c-plus-plus-string-to-int/ - learned about stoi function here 
-- Also used former student Thomas Moore calculation for population density
+- Used former student Thomas Moore calculation for population density
 
 Instructions to start program in Docker container:
 
