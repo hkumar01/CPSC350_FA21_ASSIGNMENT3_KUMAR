@@ -20,9 +20,6 @@ Files Submitted:
 - Makefile
 
 No compile or runtime errors
-- Could not use git push command because of authentication errors so I manually uploaded the source files
-
-Attempting to check for oscilation but I am not sure if I implemented it correctly.
 
 References:
 - https://www.youtube.com/watch?v=YZ-W5DrKPQ0&t=691s - used same logic from video to count number of neighbors
